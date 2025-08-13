@@ -1,4 +1,4 @@
-print("2")
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Dev-BlueX/BlueX-Hub/refs/heads/main/Main.lua"))()
 print("1")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dev-BlueX/BlueX-Hub/refs/heads/main/Main.lua"))()
+print("2")
 loadstring(game:HttpGet("https://pastefy.app/QAa9lDu0/raw"))()
